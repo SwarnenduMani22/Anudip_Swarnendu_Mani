@@ -1,2 +1,10 @@
 # Ignore Power BI Report folder
 PROJECT/Blinkit data project (Power BI)/Report/
+# Power BI internal files
+PROJECT/Blinkit data project (Power BI)/DataModel
+PROJECT/Blinkit data project (Power BI)/DiagramLayout
+PROJECT/Blinkit data project (Power BI)/Metadata
+PROJECT/Blinkit data project (Power BI)/SecurityBindings
+PROJECT/Blinkit data project (Power BI)/Settings
+PROJECT/Blinkit data project (Power BI)/Version
+PROJECT/Blinkit data project (Power BI)/[Content_Types].xml
